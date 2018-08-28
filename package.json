@@ -1,13 +1,13 @@
 {
-  "name": "mneko_server",
-  "version": "0.0.0",
+  "name": "node-mclimbo",
+  "version": "0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "author": "Ender Ossel",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "dependencies": {
     "minecraft-protocol": "^1.8.0"
   }
