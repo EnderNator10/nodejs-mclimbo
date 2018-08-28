@@ -1,0 +1,14 @@
+{
+  "name": "mneko_server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ender Ossel",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "minecraft-protocol": "^1.8.0"
+  }
+}
